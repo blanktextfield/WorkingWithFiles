@@ -1,0 +1,13 @@
+C:\Users\mammu\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.exe
+C:\Users\mammu\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.deps.json
+C:\Users\mammu\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.runtimeconfig.json
+C:\Users\mammu\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.dll
+C:\Users\mammu\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.pdb
+C:\Users\mammu\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.csprojAssemblyReference.cache
+C:\Users\mammu\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.AssemblyInfo.cs
+C:\Users\mammu\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.dll
+C:\Users\mammu\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.pdb
+C:\Users\mammu\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.genruntimeconfig.cache
